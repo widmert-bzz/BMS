@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Excali Versicherungen V2"
             }
+          },
+          {
+            "id": "e4aa3d818f2cd8f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FRW - Recht/41 Verluste aus Forderungen/Drawing 2024-12-03 10.29.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-03 10.29.07.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +176,17 @@
   },
   "active": "dd14d1a34b6c591d",
   "lastOpenFiles": [
-    "x_Image/Pasted image 20240623191319.png",
+    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "FRW - Recht/41 Verluste aus Forderungen/Drawing 2024-12-03 10.29.07.excalidraw.md",
+    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
+    "FRW - Recht/14/Untitled.md",
+    "FRW - Recht/13/Bilanz.md",
+    "FRW - Recht/12/FRW_11+12.excalidraw",
+    "FRW - Recht/12/Recht.md",
+    "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
     "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
+    "FRW - Recht/41 Verluste aus Forderungen",
+    "x_Image/Pasted image 20240623191319.png",
     "x_Image",
     "Deutsch/Die Adverbialien.md",
     "Wirtschaft/19 Versicherungen/Excali Versicherungen.md",
@@ -187,10 +209,8 @@
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
     "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
-    "Deutsch/Verben HA.md",
     "Geschichte",
     "Wirtschaft/19 Versicherungen",
-    "Recht/Kapitel 40/Abschreibungen.md",
-    "Recht/Kapitel 40"
+    "FRW - Recht/40 Abschriebungen"
   ]
 }
