@@ -1,0 +1,8 @@
+ - ### Vertraglich
+ - ### Ungerechtfertigte Bereicherung
+ - ### Unerlaubte Handlung
+	- [[Verschuldenshaftung]] (eigenes Verschulden)
+	- Kausalhaftung (fremdes Verschulden)
+		- mit Befreiungsbeweis
+		- ohne Befreiungsbeweis
+	- Gefährdungshaftung 

@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "9e411ba47c6e8b0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e41a515f53373782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c38a8d20079404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deutsch/Die Adverbialien.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Die Adverbialien"
+            }
+          },
+          {
+            "id": "10464adfba1dddd5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/20 Mietrecht/Mietrecht.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mietrecht"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e560a35a459e5569",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ada59d179cf1890",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd14d1a34b6c591d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "94ef8e7da73a673a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1db1c9794189788",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ffb2bc2e92e8cba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5331e6a20b821cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5683d87a08a8725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Deutsch/Verben HA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Verben HA"
+            }
+          },
+          {
+            "id": "df504da930b0f9c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Deutsch/Verben HA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Verben HA"
+            }
+          },
+          {
+            "id": "756d1e3bdca17163",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13a659abc3a907b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Deutsch/Verben HA.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Verben HA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "10464adfba1dddd5",
+  "lastOpenFiles": [
+    "Wirtschaft/9 Sachenrecht/Zusammenfassung Präsis.md",
+    "Wirtschaft/10/Obligationen.md",
+    "Wirtschaft/10/Ungerechtfertigte Bereicherung.md",
+    "Wirtschaft/10/Verschuldenshaftung.md",
+    "Wirtschaft/10/Wie entstehen Obligationen.md",
+    "Wirtschaft/11/Geschäftsfähig als Vertragspartner.md",
+    "Wirtschaft/11/Übereinstimmende gegenseitige Willensäusserung.excalidraw.md",
+    "Wirtschaft/11/Vertragsinhalt.md",
+    "Wirtschaft/15 Personalwesen/Arbeitszufriedenheit.md",
+    "Wirtschaft/19 Versicherungen/Excali Versicherungen.md",
+    "Wirtschaft/20 Mietrecht/Mietrecht.md",
+    "Wirtschaft/15 Personalwesen/Lohnarten.md",
+    "Wirtschaft/15 Personalwesen/Personalbeschaffung.md",
+    "Wirtschaft/15 Personalwesen/Personalentwicklung.md",
+    "Pasted image 20240623193028.png",
+    "Pasted image 20240623191319.png",
+    "Screenshot 2023-08-29 135400.png",
+    "Screenshot 2023-08-29 133702.png",
+    "Noten.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Deutsch/Die Adverbialien.md",
+    "Deutsch/Verben HA.md",
+    "Geschichte",
+    "Wirtschaft/19 Versicherungen",
+    "Recht/Kapitel 40/Abschreibungen.md",
+    "Recht/Kapitel 40"
+  ]
+}

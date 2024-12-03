@@ -1,0 +1,4 @@
+- 1 Jahre Schadensersatz, Anfechtung
+- 2 Jahre Mängel bei Kaufsachen
+- 5 Jahre Lohn, Steuern
+- 10 Jahre Allgemein

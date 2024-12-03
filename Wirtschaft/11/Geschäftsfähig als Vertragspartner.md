@@ -1,0 +1,3 @@
+Geschäftsfähig wenn:
+Urteilsfähig
+Volljährig
