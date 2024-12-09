@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-12-09 11.52.00.excalidraw"
             }
+          },
+          {
+            "id": "c9ba3e2343e22aa8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/20 Mietrecht/Mietrecht.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mietrecht"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,18 +198,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c1e2bd99a3d13a9",
+  "active": "c9ba3e2343e22aa8",
   "lastOpenFiles": [
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
+    "FRW - Recht/Bilanz.md",
+    "FRW - Recht/12/Recht.md",
+    "FRW - Recht/12/FRW_11+12.excalidraw",
+    "FRW - Recht/12/Begriffe & Aufgaben.md",
+    "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
+    "FRW - Recht/12/Dateien/12_Begriffe_gut_geordnete_Bilanz.pdf",
+    "FRW - Recht/13/Bilanz.md",
+    "FRW - Recht/14/Untitled.md",
+    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md",
+    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
     "Wirtschaft/Steuern",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
-    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
-    "FRW - Recht/14/Untitled.md",
-    "FRW - Recht/13/Bilanz.md",
-    "FRW - Recht/12/FRW_11+12.excalidraw",
-    "FRW - Recht/12/Recht.md",
     "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
@@ -216,9 +232,6 @@
     "Wirtschaft/11/Übereinstimmende gegenseitige Willensäusserung.excalidraw.md",
     "Wirtschaft/11/Vertragsinhalt.md",
     "Wirtschaft/15 Personalwesen/Arbeitszufriedenheit.md",
-    "Wirtschaft/15 Personalwesen/Lohnarten.md",
-    "Wirtschaft/15 Personalwesen/Personalbeschaffung.md",
-    "Wirtschaft/15 Personalwesen/Personalentwicklung.md",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
