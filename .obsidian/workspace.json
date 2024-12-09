@@ -25,14 +25,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md"
+                "file": "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Verluste aus Forderungen"
+              "title": "Excali Versicherungen V2"
+            }
+          },
+          {
+            "id": "1c1e2bd99a3d13a9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-09 11.52.00.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,17 +186,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd14d1a34b6c591d",
+  "active": "1c1e2bd99a3d13a9",
   "lastOpenFiles": [
-    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
+    "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md",
+    "Wirtschaft/Steuern",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
+    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
     "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/14/Untitled.md",
     "FRW - Recht/13/Bilanz.md",
     "FRW - Recht/12/FRW_11+12.excalidraw",
     "FRW - Recht/12/Recht.md",
     "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image",
@@ -208,7 +222,6 @@
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
     "Geschichte",
     "Wirtschaft/19 Versicherungen",
     "FRW - Recht/40 Abschriebungen"
