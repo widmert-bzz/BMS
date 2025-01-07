@@ -49,14 +49,28 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/40 Abschriebungen/Abschreibungen.md"
+                "file": "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Abschreibungen"
+              "title": "Verluste aus Forderungen"
+            }
+          },
+          {
+            "id": "84adf973ea1d8a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Steuerrecht"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,26 +212,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9ba3e2343e22aa8",
+  "active": "84adf973ea1d8a0d",
   "lastOpenFiles": [
-    "FRW - Recht/Erfolgsrechnung.md",
+    "Wirtschaft/23 Steuerrecht/Drawing 2024-12-09 11.52.00.excalidraw.md",
+    "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
+    "FRW - Recht/Erfolgsrechnung.md",
     "FRW - Recht/12/FRW_11+12.excalidraw",
     "FRW - Recht/12/Recht.md",
     "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
     "FRW - Recht/13/Bilanz.md",
     "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/14/Untitled.md",
-    "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
     "FRW - Recht/12/Begriffe & Aufgaben.md",
     "Wirtschaft/Formvorschriften.md",
     "Wirtschaft/20 Mietrecht/Mietrecht.md",
     "FRW - Recht/Bilanz.md",
     "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
     "FRW - Recht/12/Dateien/12_Begriffe_gut_geordnete_Bilanz.pdf",
-    "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md",
     "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
-    "Wirtschaft/Steuern",
+    "Wirtschaft/23 Steuerrecht",
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image",
