@@ -15,8 +15,8 @@
               "state": {
                 "file": "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Versicherungen V2"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -27,24 +27,38 @@
               "state": {
                 "file": "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Versicherungen V2"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "1c1e2bd99a3d13a9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md"
+                "file": "Wirtschaft/10/Verschuldenshaftung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-09 11.52.00.excalidraw"
+              "icon": "lucide-file",
+              "title": "Verschuldenshaftung"
             }
           },
           {
-            "id": "c9ba3e2343e22aa8",
+            "id": "adfa8a936db27fb9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FRW - Recht/Erfolgsrechnung.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Erfolgsrechnung"
+            }
+          },
+          {
+            "id": "4767a70a11944e24",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -56,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ffb2bc2e92e8cba6",
@@ -198,26 +213,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c9ba3e2343e22aa8",
+  "active": "4767a70a11944e24",
   "lastOpenFiles": [
-    "FRW - Recht/Erfolgsrechnung.md",
+    "Untitled.canvas",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "Wirtschaft/Formvorschriften.md",
+    "Wirtschaft/10/Verschuldenshaftung.md",
+    "Wirtschaft/10/Ungerechtfertigte Bereicherung.md",
+    "Wirtschaft/10/Obligationen.md",
+    "Wirtschaft/15 Personalwesen/Personalentwicklung.md",
+    "Wirtschaft/15 Personalwesen/Personalbeschaffung.md",
+    "Wirtschaft/15 Personalwesen/Lohnarten.md",
+    "Wirtschaft/15 Personalwesen/Arbeitszufriedenheit.md",
+    "Wirtschaft/20 Mietrecht/Mietrecht.md",
+    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
+    "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md",
+    "Wirtschaft/Steuern",
+    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
+    "FRW - Recht/14/Untitled.md",
+    "FRW - Recht/13/Bilanz.md",
     "FRW - Recht/12/FRW_11+12.excalidraw",
     "FRW - Recht/12/Recht.md",
     "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
-    "FRW - Recht/13/Bilanz.md",
-    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
-    "FRW - Recht/14/Untitled.md",
-    "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
-    "FRW - Recht/12/Begriffe & Aufgaben.md",
-    "Wirtschaft/Formvorschriften.md",
-    "Wirtschaft/20 Mietrecht/Mietrecht.md",
-    "FRW - Recht/Bilanz.md",
-    "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
-    "FRW - Recht/12/Dateien/12_Begriffe_gut_geordnete_Bilanz.pdf",
-    "Wirtschaft/Steuern/Drawing 2024-12-09 11.52.00.excalidraw.md",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
-    "Wirtschaft/Steuern",
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image",
@@ -226,12 +245,7 @@
     "Prüfungen.md",
     "Noten.md",
     "Wirtschaft/9 Sachenrecht/Zusammenfassung Präsis.md",
-    "Wirtschaft/10/Obligationen.md",
-    "Wirtschaft/10/Ungerechtfertigte Bereicherung.md",
-    "Wirtschaft/10/Verschuldenshaftung.md",
     "Wirtschaft/10/Wie entstehen Obligationen.md",
-    "Wirtschaft/11/Geschäftsfähig als Vertragspartner.md",
-    "Wirtschaft/11/Übereinstimmende gegenseitige Willensäusserung.excalidraw.md",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
