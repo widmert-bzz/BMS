@@ -61,16 +61,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
+                "file": "Deutsch/Lektion/Charakterisierung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Steuerrecht"
+              "title": "Charakterisierung"
+            }
+          },
+          {
+            "id": "1527348a8b67e36a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/21 Familienrecht/Drawing 2025-01-27 11.24.22.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-27 11.24.22.excalidraw"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -212,10 +224,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "84adf973ea1d8a0d",
+  "active": "1527348a8b67e36a",
   "lastOpenFiles": [
-    "Wirtschaft/23 Steuerrecht/Drawing 2024-12-09 11.52.00.excalidraw.md",
+    "Wirtschaft/21 Familienrecht/Drawing 2025-01-27 11.24.22.excalidraw.md",
+    "Deutsch/Lektion/Charakterisierung.md",
+    "Wirtschaft/21 Familienrecht",
+    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Lektion",
+    "Deutsch/Drawing 2025-01-21 15.21.34.excalidraw.md",
+    "Deutsch/Verben HA.md",
+    "Deutsch/Die Adverbialien.md",
     "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
+    "Wirtschaft/Formvorschriften.md",
+    "Wirtschaft/23 Steuerrecht/Drawing 2024-12-09 11.52.00.excalidraw.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
     "FRW - Recht/Erfolgsrechnung.md",
@@ -226,7 +247,6 @@
     "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/14/Untitled.md",
     "FRW - Recht/12/Begriffe & Aufgaben.md",
-    "Wirtschaft/Formvorschriften.md",
     "Wirtschaft/20 Mietrecht/Mietrecht.md",
     "FRW - Recht/Bilanz.md",
     "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
@@ -236,22 +256,15 @@
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image",
-    "Deutsch/Die Adverbialien.md",
     "Wirtschaft/19 Versicherungen/Excali Versicherungen.md",
     "Prüfungen.md",
     "Noten.md",
     "Wirtschaft/9 Sachenrecht/Zusammenfassung Präsis.md",
     "Wirtschaft/10/Obligationen.md",
-    "Wirtschaft/10/Ungerechtfertigte Bereicherung.md",
-    "Wirtschaft/10/Verschuldenshaftung.md",
-    "Wirtschaft/10/Wie entstehen Obligationen.md",
-    "Wirtschaft/11/Geschäftsfähig als Vertragspartner.md",
-    "Wirtschaft/11/Übereinstimmende gegenseitige Willensäusserung.excalidraw.md",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
     "Geschichte",
-    "Wirtschaft/19 Versicherungen",
-    "FRW - Recht/40 Abschriebungen"
+    "Wirtschaft/19 Versicherungen"
   ]
 }
