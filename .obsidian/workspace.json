@@ -99,12 +99,14 @@
             "id": "5c249792d4bad305",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mathe/Boxplot.md"
+                "file": "Deutsch/Indirekte Rede.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Boxplot"
+              "icon": "lucide-file",
+              "title": "Indirekte Rede"
             }
           }
         ],
@@ -252,6 +254,12 @@
   },
   "active": "5c249792d4bad305",
   "lastOpenFiles": [
+    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Die Adverbialien.md",
+    "Deutsch/Verben HA.md",
+    "Deutsch/Indirekte Rede.md",
+    "Deutsch/Lektion/Charakterisierung.md",
+    "Deutsch/Drawing 2025-01-21 15.21.34.excalidraw.md",
     "Mathe/Funktionen.md",
     "Mathe/Boxplot.md",
     "Mathe/Kapitel 15.md",
@@ -262,13 +270,8 @@
     "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
     "Untitled.canvas",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen",
-    "Deutsch/Lektion/Charakterisierung.md",
     "Wirtschaft/21 Familienrecht",
-    "Deutsch/Passiv mit Modalverben.md",
     "Deutsch/Lektion",
-    "Deutsch/Drawing 2025-01-21 15.21.34.excalidraw.md",
-    "Deutsch/Verben HA.md",
-    "Deutsch/Die Adverbialien.md",
     "Wirtschaft/Formvorschriften.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
@@ -289,7 +292,6 @@
     "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen.md",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png"
