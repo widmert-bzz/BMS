@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Schweizer Industrie"
             }
+          },
+          {
+            "id": "b9c97fe2ee4076bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excali Wertschriften"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,14 +174,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "83838f0a62718115",
+  "active": "b9c97fe2ee4076bc",
   "lastOpenFiles": [
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
-    "Geschichte/Schweizer Industrie.md",
     "FRW - Recht/45 Wertschriften/Wertschriften.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-04 09.26.02.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-04 09.26.03.excalidraw.md",
+    "Geschichte/Schweizer Industrie.md",
+    "Excalidraw",
     "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
     "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "Mathe/Funktionen.md",
@@ -197,12 +214,9 @@
     "FRW - Recht/12/FRW_11+12.excalidraw",
     "FRW - Recht/12/Recht.md",
     "FRW - Recht/12/Unternehmungsformen und ihr Eigenkapital.md",
-    "FRW - Recht/13/Bilanz.md",
-    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
     "FRW - Recht/12/Dateien/12_Begriffe_gut_geordnete_Bilanz.pdf",
     "Wirtschaft/23 Steuerrecht",
-    "FRW - Recht/41 Verluste aus Forderungen",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
