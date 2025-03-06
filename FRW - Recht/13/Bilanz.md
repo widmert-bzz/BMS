@@ -7,4 +7,3 @@
 | Kapitalrückzahlung | - Aktiv - Passiv
 | Aktivtausch | +- Aktiv
 | Passivtausch | +- Passiv
-
