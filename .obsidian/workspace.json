@@ -122,9 +122,21 @@
               "icon": "lucide-file",
               "title": "Bilanz"
             }
+          },
+          {
+            "id": "7e385f1fbac61e77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Informatik/Drawing 2025-03-16 21.51.31.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-16 21.51.31.excalidraw"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -264,12 +276,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd14d1a34b6c591d",
+  "active": "7e385f1fbac61e77",
   "lastOpenFiles": [
+    "FRW - Recht/13/Bilanz.md",
+    "Informatik/Drawing 2025-03-16 21.51.31.excalidraw.md",
+    "Informatik",
     "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/14/Untitled.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
@@ -295,8 +309,6 @@
     "Excalidraw/Drawing 2025-03-04 09.26.02.excalidraw.md",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
     "Geschichte/Schweizer Industrie.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
-    "Wirtschaft/11/Geschäftsfähig als Vertragspartner.md",
     "FRW - Recht/45 Wertschriften",
     "Excalidraw",
     "Mathe/Untitled",
@@ -306,7 +318,6 @@
     "FRW - Recht/12/FRW_11+12.excalidraw",
     "FRW - Recht/12/Dateien/Kap. 11-12_Aufgaben mit Text.pdf",
     "FRW - Recht/12/Dateien/12_Begriffe_gut_geordnete_Bilanz.pdf",
-    "Wirtschaft/23 Steuerrecht",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
