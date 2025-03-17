@@ -1,4 +1,3 @@
-
 ##### 211-212
 ich -> Konjuktiv I
 du -> Konjuktiv II
@@ -6,7 +5,7 @@ usw..
 
 #### Konjuktiv I:
 
-Stamm der Infinitivs + Konjuktivendungen
+Stamm des Infinitivs + Konjuktivendungen
 
 | Infinifiv | Stamm der Infinitivs |
 | --------- | -------------------- |
@@ -24,6 +23,9 @@ Stamm der Infinitivs + Konjuktivendungen
 #### Konjuktiv II:
 
 Präteritum + Konjuktivendungen
+
+(Stark -> Stamm wechselt i -> o usw.)
+Bei Starken werben: 
 a -> ä
 o -> ö
 u -> ü
