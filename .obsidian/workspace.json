@@ -11,12 +11,14 @@
             "id": "43980e3d82a3d8c3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Wirtschaft/22 Erbrecht/Excali Erbrecht.md"
+                "file": "Deutsch/Indirekte Rede.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Erbrecht"
+              "icon": "lucide-file",
+              "title": "Indirekte Rede"
             }
           },
           {
@@ -176,11 +178,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d621dd690344d6e",
+  "active": "43980e3d82a3d8c3",
   "lastOpenFiles": [
-    "Wirtschaft/22 Erbrecht/Erbrecht.md",
-    "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
+    "Deutsch/Verben HA.md",
+    "Deutsch/Indirekte Rede.md",
+    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Die Adverbialien.md",
+    "Mathe/Themen.md",
+    "Mathe/Boxplot.md",
+    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
     "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
+    "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
+    "Wirtschaft/22 Erbrecht/Erbrecht.md",
     "Informatik/M183/Drawing 2025-03-16 21.51.31.excalidraw.md",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Informatik/M183/Lektion/Excali SQL Example.md",
@@ -188,10 +197,8 @@
     "Informatik/M183/Lektion/Excali.md",
     "Informatik/M183/Lektion",
     "Informatik/M183",
-    "Deutsch/Indirekte Rede.md",
     "Deutsch/Test/Test.md",
     "Deutsch/Test",
-    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
     "FRW - Recht/45 Wertschriften/Wertschriften.md",
     "Geschichte/Industrielle Revolution.md",
     "Geschichte/Schweizer Industrie.md",
@@ -199,9 +206,6 @@
     "Wirtschaft/22 Erbrecht",
     "Informatik",
     "Untitled.canvas",
-    "Deutsch/Passiv mit Modalverben.md",
-    "Deutsch/Die Adverbialien.md",
-    "Deutsch/Verben HA.md",
     "Deutsch/Lektion/Charakterisierung.md",
     "Wirtschaft/Formvorschriften.md",
     "Excalidraw/Drawing 2025-03-04 09.26.02.excalidraw.md",
@@ -210,7 +214,6 @@
     "Mathe/Funktionen.md",
     "Mathe/Kapitel 15.md",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
     "FRW - Recht/45 Wertschriften",
     "Mathe/Untitled",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen",
