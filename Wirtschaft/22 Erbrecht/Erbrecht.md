@@ -2,6 +2,15 @@ Gleichheitsprinzip
 Einwachsungsprinzip
 
 
+Nur immer 1 Stamm der Erbt
+Ehepartner sind in keinem Stamm
+Stammeshaupte:
+Stamm 1 -> Kinder
+Stamm 2 -> Eltern
+Stamm 3 -> Grosseltern
+Anstelle Stammeshauptes erben Nachkommen
+
+
 ### Fallbeispiel 1:
 
 Erbe: 60'000
