@@ -57,3 +57,4 @@ Errungenschaften 600'000
 | \- Todesfallkosten: | 6'000   |
 | **Summe:**          | 354'000 |
 
+Wenn keine Nachkommen eltern 1/4 ehepartner 3/4
