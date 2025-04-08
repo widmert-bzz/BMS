@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "967615a09c272732",
+            "id": "a3ed44fc64f6fcf2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Wirtschaft/23 Steuerrecht/Excali Steuerrecht.md"
+                "file": "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Steuerrecht"
+              "icon": "lucide-file",
+              "title": "Excali Familienrecht"
             }
           }
         ]
@@ -173,14 +175,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "967615a09c272732",
+  "active": "a3ed44fc64f6fcf2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "Wirtschaft/23 Steuerrecht/Excali Steuerrecht.md",
+    "x_Image/Personalaufwand Grafik.png",
+    "Mathe/Geraden.md",
+    "FRW - Recht/46 Immobilien/Excali.md",
+    "FRW - Recht/46 Immobilien",
+    "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
+    "FRW - Recht/44 Lohnabrechnung",
+    "Deutsch/Textverständnis.md",
     "Excalidraw/Drawing 2025-04-08 17.52.00.excalidraw.md",
     "Excalidraw",
     "Wirtschaft/22 Erbrecht/Erbrecht.md",
     "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
-    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "Deutsch/Gramatik/Themen.md",
     "FRW - Recht/13/Bilanz.md",
     "Deutsch/Gramatik",
@@ -201,18 +211,11 @@
     "Deutsch/Test/Andorra/Inhalt.md",
     "Deutsch/Test/Andorra/Infos.md",
     "Deutsch/Test/Andorra",
-    "Deutsch/Test",
-    "Informatik",
     "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
     "FRW - Recht/14/Untitled.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
     "Mathe/Funktionen.md",
-    "Mathe/Kapitel 15.md",
-    "Mathe/Boxplot.md",
-    "Wirtschaft/Formvorschriften.md",
     "Untitled.canvas",
-    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
-    "FRW - Recht/Erfolgsrechnung.md",
     "x_Image/Pasted image 20240623191319.png",
     "x_Image/Pasted image 20240623193028.png",
     "x_Image/Screenshot 2023-08-29 135400.png",
