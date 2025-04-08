@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7c811c738fa74992",
+        "id": "0b2e230079251a9a",
         "type": "tabs",
         "children": [
           {
-            "id": "3842f9bcd88e7c29",
+            "id": "299b94917368bf4c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,23 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Excali Wertschriften"
             }
-          },
-          {
-            "id": "ad14a24165c9bcb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Deutsch/Test/Die Verwandlung/Info.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Info"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,23 +162,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ad14a24165c9bcb4",
+  "active": "299b94917368bf4c",
   "lastOpenFiles": [
-    "Deutsch/Test/Andorra/Infos.md",
-    "Deutsch/Test/Die Verwandlung/Info.md",
-    "Deutsch/Test/Andorra/Inhalt.md",
+    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
+    "x_Image/Screenshot 2023-08-29 135400.png",
+    "x_Image/Screenshot 2023-08-29 133702.png",
+    "x_Image/Personalaufwand Grafik.png",
     "x_Image/Pasted image 20250407105517.png",
+    "x_Image/Pasted image 20240623200856.png",
+    "x_Image/Pasted image 20240623193428.png",
+    "x_Image/Pasted image 20240623193028.png",
+    "x_Image/Pasted image 20240623191319.png",
+    "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
+    "FRW - Recht/46 Immobilien/Excali.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "FRW - Recht/44 Lohnabrechnung",
+    "FRW - Recht/Untitled.md",
+    "Deutsch/Test/Die Verwandlung/Info.md",
+    "Deutsch/Test/Andorra/Infos.md",
+    "Deutsch/Test/Andorra/Inhalt.md",
     "Deutsch/Test/Test.md",
     "Deutsch/Test/Corpus Delicti",
     "Deutsch/Test/Untitled.md",
     "Deutsch/Test/Die Verwandlung",
     "Deutsch/Test/Andorra",
     "Deutsch/Test/Erdbeben von Chili",
-    "FRW - Recht/46/Excali.md",
-    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
-    "FRW - Recht/46",
+    "FRW - Recht/46 Immobilien",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
-    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
     "Wirtschaft/22 Erbrecht/Erbrecht.md",
     "Wirtschaft/20 Mietrecht/Mietrecht.md",
@@ -211,16 +207,7 @@
     "Informatik/M183/Lektion",
     "Informatik/M183",
     "Deutsch/Test",
-    "FRW - Recht/45 Wertschriften/Wertschriften.md",
-    "Geschichte/Industrielle Revolution.md",
-    "Geschichte/Schweizer Industrie.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
     "Wirtschaft/22 Erbrecht",
-    "Informatik",
-    "Untitled.canvas",
-    "x_Image/Pasted image 20240623191319.png",
-    "x_Image/Pasted image 20240623193028.png",
-    "x_Image/Screenshot 2023-08-29 135400.png",
-    "x_Image/Screenshot 2023-08-29 133702.png"
+    "Untitled.canvas"
   ]
 }
