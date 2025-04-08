@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0b2e230079251a9a",
+        "id": "1bdeb733eabf35ca",
         "type": "tabs",
         "children": [
           {
-            "id": "299b94917368bf4c",
+            "id": "568235c380bef547",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md"
+                "file": "Deutsch/Test/Test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Wertschriften"
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
@@ -159,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +175,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "299b94917368bf4c",
+  "active": "dd14d1a34b6c591d",
   "lastOpenFiles": [
+    "Deutsch/Textverständnis.md",
+    "Deutsch/Verben HA.md",
+    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Indirekte Rede.md",
+    "Deutsch/Die Adverbialien.md",
+    "Deutsch/Test/Test.md",
+    "Mathe/Funktionen.md",
+    "Mathe/Themen.md",
+    "Mathe/Geraden.md",
+    "Mathe/Kapitel 11",
+    "Mathe/Untitled.md",
     "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
     "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "x_Image/Screenshot 2023-08-29 135400.png",
@@ -193,7 +206,6 @@
     "Deutsch/Test/Die Verwandlung/Info.md",
     "Deutsch/Test/Andorra/Infos.md",
     "Deutsch/Test/Andorra/Inhalt.md",
-    "Deutsch/Test/Test.md",
     "Deutsch/Test/Corpus Delicti",
     "Deutsch/Test/Untitled.md",
     "Deutsch/Test/Die Verwandlung",
@@ -206,19 +218,10 @@
     "Wirtschaft/20 Mietrecht/Mietrecht.md",
     "Informatik/M183/Lektion/Excali SQL Example.md",
     "Informatik/M183/Excali Test 1.md",
-    "Deutsch/Indirekte Rede.md",
-    "Deutsch/Verben HA.md",
-    "Deutsch/Passiv mit Modalverben.md",
-    "Deutsch/Die Adverbialien.md",
-    "Mathe/Themen.md",
-    "Mathe/Boxplot.md",
     "Informatik/M183/Lektion/Untitled.canvas",
-    "Informatik/M183/Lektion/Untitled.md",
-    "Informatik/M183/Lektion/Excali.md",
     "Informatik/M183/Lektion",
     "Informatik/M183",
     "Deutsch/Test",
-    "Wirtschaft/22 Erbrecht",
     "Untitled.canvas"
   ]
 }
