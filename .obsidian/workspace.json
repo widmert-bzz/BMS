@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3e367db72cb671c4",
+        "id": "c9ced12a7b159a10",
         "type": "tabs",
         "children": [
           {
-            "id": "f37cb513186a22c3",
+            "id": "b9b9beaf1e69c328",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/46 Immobilien/Excali.md"
+                "file": "Mathe/Funktionen.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali"
+              "title": "Funktionen"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FRW - Recht/46 Immobilien/Excali.md",
+                "file": "Mathe/Funktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Excali"
+              "title": "Backlinks for Funktionen"
             }
           },
           {
@@ -111,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FRW - Recht/46 Immobilien/Excali.md",
+                "file": "Mathe/Funktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Excali"
+              "title": "Outgoing links from Funktionen"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FRW - Recht/46 Immobilien/Excali.md",
+                "file": "Mathe/Funktionen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Excali"
+              "title": "Outline of Funktionen"
             }
           },
           {
@@ -178,11 +178,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f37cb513186a22c3",
+  "active": "b9b9beaf1e69c328",
   "lastOpenFiles": [
-    "FRW - Recht/Erfolgsrechnung.md",
-    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+    "Mathe/Funktionen.md",
+    "Mathe/Test 11-13.md",
+    "Mathe/Kapitel 15.md",
+    "Mathe/Geraden.md",
+    "Mathe/Boxplot.md",
+    "Mathe/Themen.md",
+    "Mathe/11-13",
     "FRW - Recht/46 Immobilien/Excali.md",
+    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+    "Deutsch/Die Adverbialien.md",
+    "Deutsch/Gramatik/Wortarten/Verben.md",
+    "Deutsch/Gramatik/Wortarten/Präposition.md",
+    "Deutsch/Gramatik/Wortarten/Artikel.md",
+    "Deutsch/Gramatik/Wortarten/Adverb.md",
+    "Deutsch/Gramatik/Wortarten/Adjektive.md",
+    "FRW - Recht/Erfolgsrechnung.md",
     "FRW - Recht/45 Wertschriften/Wertschriften.md",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
     "FRW - Recht/41 Verluste aus Forderungen/Verluste aus Forderungen.md",
