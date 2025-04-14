@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "1bcb2e95a9d6bfbd",
+        "id": "cb70595fd69dc8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ed44fc64f6fcf2",
+            "id": "1a7c9bf0117d38c3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
-                "mode": "source",
-                "source": false
+                "file": "FRW - Recht/46 Immobilien/Excali.md"
               },
-              "icon": "lucide-file",
-              "title": "Excali Familienrecht"
+              "icon": "excalidraw-icon",
+              "title": "Excali"
             }
           }
         ]
@@ -147,7 +145,7 @@
             }
           },
           {
-            "id": "d10e40ea9550c64c",
+            "id": "fc14cb29651cc027",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -161,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,50 +173,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3ed44fc64f6fcf2",
+  "active": "1a7c9bf0117d38c3",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
-    "Wirtschaft/23 Steuerrecht/Excali Steuerrecht.md",
-    "x_Image/Personalaufwand Grafik.png",
-    "Mathe/Geraden.md",
+    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+    "FRW - Recht/45 Wertschriften/Wertschriften.md",
     "FRW - Recht/46 Immobilien/Excali.md",
-    "FRW - Recht/46 Immobilien",
+    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
     "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
-    "FRW - Recht/44 Lohnabrechnung",
-    "Deutsch/Textverständnis.md",
+    "Deutsch/Test/Kleider machen Leute/Inhalt.md",
+    "Deutsch/Test/Kleider machen Leute/Info.md",
+    "Deutsch/Test/Corpus Delicti/Info.md",
+    "Deutsch/Test/Die Verwandlung/Info.md",
+    "Deutsch/Test/Erdbeben von Chili/Info.md",
+    "Deutsch/Test/Test.md",
+    "Deutsch/Verben HA.md",
+    "Deutsch/Gramatik/Themen.md",
+    "Deutsch/Test/Andorra/Infos.md",
+    "Deutsch/Test/Andorra/Inhalt.md",
+    "Deutsch/Test/Kleider machen Leute",
+    "Deutsch/Indirekte Rede.md",
     "Excalidraw/Drawing 2025-04-08 17.52.00.excalidraw.md",
     "Excalidraw",
-    "Wirtschaft/22 Erbrecht/Erbrecht.md",
-    "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
-    "Deutsch/Gramatik/Themen.md",
-    "FRW - Recht/13/Bilanz.md",
     "Deutsch/Gramatik",
-    "Informatik/Drawing 2025-03-16 21.51.31.excalidraw.md",
-    "x_Image/Pasted image 20250407105517.png",
-    "Wirtschaft/22 Erbrecht",
-    "Mathe/Themen.md",
-    "Informatik/M183/Lektion/Excali SQL Example.md",
-    "Informatik/M183/Lektion",
-    "Informatik/M183/Excali Test 1.md",
-    "Informatik/M183",
-    "Geschichte/Industrielle Revolution.md",
-    "FRW - Recht/46/Excali.md",
-    "FRW - Recht/46",
-    "Deutsch/Test/Test.md",
-    "Deutsch/Test/Die Verwandlung/Info.md",
-    "Deutsch/Test/Die Verwandlung",
-    "Deutsch/Test/Andorra/Inhalt.md",
-    "Deutsch/Test/Andorra/Infos.md",
-    "Deutsch/Test/Andorra",
-    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
-    "FRW - Recht/14/Untitled.md",
-    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Textverständnis.md",
+    "Deutsch/Die Adverbialien.md",
     "Mathe/Funktionen.md",
-    "Untitled.canvas",
-    "x_Image/Pasted image 20240623191319.png",
-    "x_Image/Pasted image 20240623193028.png",
+    "Mathe/Themen.md",
+    "Mathe/Geraden.md",
+    "Mathe/Kapitel 11",
+    "Mathe/Untitled.md",
+    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
     "x_Image/Screenshot 2023-08-29 135400.png",
-    "x_Image/Screenshot 2023-08-29 133702.png"
+    "x_Image/Screenshot 2023-08-29 133702.png",
+    "x_Image/Personalaufwand Grafik.png",
+    "x_Image/Pasted image 20250407105517.png",
+    "x_Image/Pasted image 20240623200856.png",
+    "x_Image/Pasted image 20240623193428.png",
+    "x_Image/Pasted image 20240623193028.png",
+    "x_Image/Pasted image 20240623191319.png",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "FRW - Recht/44 Lohnabrechnung",
+    "Deutsch/Test/Corpus Delicti",
+    "Deutsch/Test/Die Verwandlung",
+    "Deutsch/Test/Andorra",
+    "Deutsch/Test/Erdbeben von Chili",
+    "FRW - Recht/46 Immobilien",
+    "Informatik/M183/Lektion/Untitled.canvas",
+    "Untitled.canvas"
   ]
 }
