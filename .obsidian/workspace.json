@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "9e411ba47c6e8b0b",
+    "id": "c0bd6135edfd2450",
     "type": "split",
     "children": [
       {
-        "id": "1bcb2e95a9d6bfbd",
+        "id": "c8d52d2882010ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ed44fc64f6fcf2",
+            "id": "a20ce48c75225ea0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
-                "mode": "source",
-                "source": false
+                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md"
               },
-              "icon": "lucide-file",
-              "title": "Excali Familienrecht"
+              "icon": "excalidraw-icon",
+              "title": "Excali Wertschriften"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e560a35a459e5569",
+    "id": "b4f80d5940f216c9",
     "type": "split",
     "children": [
       {
-        "id": "8ada59d179cf1890",
+        "id": "0f21385b8557e856",
         "type": "tabs",
         "children": [
           {
-            "id": "dd14d1a34b6c591d",
+            "id": "07a56a4b6835c5ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "94ef8e7da73a673a",
+            "id": "712c50189f0e8fe6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "c1db1c9794189788",
+            "id": "a98274b525b9b313",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 300
   },
   "right": {
-    "id": "ffb2bc2e92e8cba6",
+    "id": "e5947a29899b5bfc",
     "type": "split",
     "children": [
       {
-        "id": "5331e6a20b821cd9",
+        "id": "ab0d0a62f9f518a4",
         "type": "tabs",
         "children": [
           {
-            "id": "d5683d87a08a8725",
+            "id": "f1e64a5596281601",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Verben HA.md",
+                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,50 +102,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Verben HA"
+              "title": "Backlinks for Excali Wertschriften"
             }
           },
           {
-            "id": "df504da930b0f9c8",
+            "id": "4640666dfe836182",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deutsch/Verben HA.md",
+                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Verben HA"
+              "title": "Outgoing links from Excali Wertschriften"
             }
           },
           {
-            "id": "756d1e3bdca17163",
+            "id": "6a29922e8b571d1b",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "13a659abc3a907b0",
+            "id": "556ac7a0fff89f49",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deutsch/Verben HA.md"
+                "file": "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Verben HA"
+              "title": "Outline of Excali Wertschriften"
             }
           },
           {
-            "id": "d10e40ea9550c64c",
+            "id": "e9a54f5d12469829",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -175,50 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3ed44fc64f6fcf2",
+  "active": "a20ce48c75225ea0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
-    "Wirtschaft/23 Steuerrecht/Excali Steuerrecht.md",
-    "x_Image/Personalaufwand Grafik.png",
-    "Mathe/Geraden.md",
-    "FRW - Recht/46 Immobilien/Excali.md",
-    "FRW - Recht/46 Immobilien",
-    "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
-    "FRW - Recht/44 Lohnabrechnung",
-    "Deutsch/Textverständnis.md",
-    "Excalidraw/Drawing 2025-04-08 17.52.00.excalidraw.md",
-    "Excalidraw",
-    "Wirtschaft/22 Erbrecht/Erbrecht.md",
-    "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
-    "Deutsch/Gramatik/Themen.md",
-    "FRW - Recht/13/Bilanz.md",
-    "Deutsch/Gramatik",
-    "Informatik/Drawing 2025-03-16 21.51.31.excalidraw.md",
-    "x_Image/Pasted image 20250407105517.png",
-    "Wirtschaft/22 Erbrecht",
-    "Mathe/Themen.md",
-    "Informatik/M183/Lektion/Excali SQL Example.md",
-    "Informatik/M183/Lektion",
-    "Informatik/M183/Excali Test 1.md",
-    "Informatik/M183",
-    "Geschichte/Industrielle Revolution.md",
-    "FRW - Recht/46/Excali.md",
-    "FRW - Recht/46",
-    "Deutsch/Test/Test.md",
-    "Deutsch/Test/Die Verwandlung/Info.md",
-    "Deutsch/Test/Die Verwandlung",
-    "Deutsch/Test/Andorra/Inhalt.md",
-    "Deutsch/Test/Andorra/Infos.md",
-    "Deutsch/Test/Andorra",
-    "FRW - Recht/14/Drawing 2023-10-03 14.11.55.excalidraw.md",
-    "FRW - Recht/14/Untitled.md",
-    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
-    "Mathe/Funktionen.md",
-    "Untitled.canvas",
-    "x_Image/Pasted image 20240623191319.png",
-    "x_Image/Pasted image 20240623193028.png",
-    "x_Image/Screenshot 2023-08-29 135400.png",
-    "x_Image/Screenshot 2023-08-29 133702.png"
+    "FRW - Recht/45 Wertschriften/Wertschriften.md",
+    "FRW - Recht/46 Immobilien/Excali.md"
   ]
 }

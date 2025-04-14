@@ -1,0 +1,4 @@
+- **auch bekannt als**: Bindewort
+- **Funktion im Satz**: Satzglieder oder Sätze miteinander verbinden
+- **Zusatzinfo**: Unterscheidung zwischen **nebenordnenden** und **unterordnenden** Konjunktionen
+- **Beispiele**: _und, oder, aber (nebenordnend); weil, damit, obwhl (unterordnend)_

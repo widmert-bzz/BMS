@@ -1,0 +1,4 @@
+- **auch bekannt als**: Umstandswort
+- **Funktion im Satz**: Zeit, Ort, Grund oder Art eines Umstands genauer beschreiben
+- **Zusatzinfo**: Kann meistens **nicht** verändert (gebeugt) werden
+- **Beispiele**: _immer, draußen, deshalb, irgendwie_
