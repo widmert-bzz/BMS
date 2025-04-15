@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cb70595fd69dc8a7",
+        "id": "1dafdb2e1a80578c",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7c9bf0117d38c3",
+            "id": "f63d2a5799f6e7a2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "ffb2bc2e92e8cba6",
@@ -173,10 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a7c9bf0117d38c3",
+  "active": "f63d2a5799f6e7a2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Pasted Image 20250415114255_972.png",
+    "Pasted Image 20250415113620_485.png",
+    "Pasted Image 20250415113259_288.png",
+    "x_Image/Pasted Image 20250415112105_009.png",
     "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
+    "x_Image/Pasted Image 20250415111612_474.png",
+    "conflict-files-obsidian-git.md",
     "Mathe/Test 11-13.md",
     "Deutsch/Gramatik/Wortarten/Verben.md",
     "Deutsch/Gramatik/Wortarten/Artikel.md",
@@ -202,7 +208,6 @@
     "Deutsch/Test/Die Verwandlung/Info.md",
     "Deutsch/Test/Erdbeben von Chili/Info.md",
     "Deutsch/Test/Test.md",
-    "Deutsch/Verben HA.md",
     "Deutsch/Test/Kleider machen Leute",
     "Excalidraw",
     "Deutsch/Gramatik",
@@ -213,8 +218,6 @@
     "x_Image/Pasted image 20250407105517.png",
     "x_Image/Pasted image 20240623200856.png",
     "x_Image/Pasted image 20240623193428.png",
-    "x_Image/Pasted image 20240623193028.png",
-    "x_Image/Pasted image 20240623191319.png",
     "FRW - Recht/44 Lohnabrechnung",
     "Deutsch/Test/Corpus Delicti",
     "Deutsch/Test/Die Verwandlung",
