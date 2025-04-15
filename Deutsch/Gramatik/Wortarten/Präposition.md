@@ -1,0 +1,4 @@
+- **auch bekannt als**: Verhältniswort
+- **Funktion im Satz**: Zeigt an, wie sich mindestens zwei andere Wörter zueinander verhalten.
+- **Zusatzinfo**: Unterscheidung zwischen **örtlichen**, **zeitlichen**, **modalen** und **begründenden** Präpositionen
+- **Beispiele**: _hinter (örtlich), während (zeitlich), außer (modal), aufgrund (begründend)_
