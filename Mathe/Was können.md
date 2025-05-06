@@ -1,0 +1,2 @@
+Gleichsetzungs und Additionsverfahren
+Definitionsmengen File, Werteberich, Ausschliessen

@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1dafdb2e1a80578c",
+        "id": "147869ba5951e1ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f63d2a5799f6e7a2",
+            "id": "f5a5fbf3fd6a9c6a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md"
+                "file": "Mathe/Was können.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Lohnabrechnung"
+              "icon": "lucide-file",
+              "title": "Was können"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "ffb2bc2e92e8cba6",
@@ -174,40 +175,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f63d2a5799f6e7a2",
+  "active": "f5a5fbf3fd6a9c6a",
   "lastOpenFiles": [
-    "Pasted Image 20250415114255_972.png",
-    "Pasted Image 20250415113620_485.png",
-    "Pasted Image 20250415113259_288.png",
-    "x_Image/Pasted Image 20250415112105_009.png",
+    "Mathe/Kapitel 15.md",
+    "Mathe/Was können.md",
+    "Mathe/Test 11-13.md",
+    "Mathe/Geraden.md",
+    "Mathe/Funktionen.md",
+    "Mathe/Boxplot.md",
+    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
+    "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
+    "Wirtschaft/23 Steuerrecht/Excali Steuerrecht.md",
+    "Wirtschaft/22 Erbrecht/Excali Erbrecht.md",
+    "Wirtschaft/22 Erbrecht/Erbrecht.md",
+    "Wirtschaft/21 Familienrecht/Excali Familienrecht.md",
+    "Wirtschaft/20 Mietrecht/Mietrecht.md",
+    "Wirtschaft/15 Personalwesen/Personalentwicklung.md",
+    "Wirtschaft/15 Personalwesen/Personalbeschaffung.md",
+    "Wirtschaft/15 Personalwesen/Lohnarten.md",
+    "Wirtschaft/15 Personalwesen/Arbeitszufriedenheit.md",
+    "FRW - Recht/50 Abschluss Einzelunternehmung/Drawing 2025-05-06 10.37.56.excalidraw.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "FRW - Recht/46 Immobilien/Excali.md",
+    "FRW - Recht/50 Abschluss Einzelunternehmung",
+    "x_Image/Pasted Image 20250415113259_288.png",
+    "Wirtschaft/24 Rechtsform",
     "FRW - Recht/44 Lohnabrechnung/Excali Lohnabrechnung.md",
+    "x_Image/Pasted Image 20250415114255_972.png",
+    "x_Image/Pasted Image 20250415113620_485.png",
+    "x_Image/Pasted Image 20250415112105_009.png",
     "x_Image/Pasted Image 20250415111612_474.png",
     "conflict-files-obsidian-git.md",
-    "Mathe/Test 11-13.md",
     "Deutsch/Gramatik/Wortarten/Verben.md",
     "Deutsch/Gramatik/Wortarten/Artikel.md",
     "Deutsch/Gramatik/Wortarten/Präposition.md",
     "Deutsch/Gramatik/Wortarten/Nomen.md",
-    "Deutsch/Gramatik/Wortarten/Pronomen.md",
-    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
-    "Deutsch/Gramatik/Wortarten/Adverb.md",
-    "Deutsch/Gramatik/Wortarten/Adjektive.md",
     "Deutsch/Gramatik/Wortarten",
-    "Deutsch/Gramatik/Glossar/Deklinieren.md",
     "Deutsch/Gramatik/Glossar",
-    "FRW - Recht/Erfolgsrechnung.md",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen.md",
-    "Wirtschaft/19 Versicherungen/Excali Versicherungen V2.md",
-    "FRW - Recht/46 Immobilien/Excali.md",
-    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
-    "FRW - Recht/45 Wertschriften/Wertschriften.md",
-    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
-    "Deutsch/Test/Kleider machen Leute/Inhalt.md",
-    "Deutsch/Test/Kleider machen Leute/Info.md",
-    "Deutsch/Test/Corpus Delicti/Info.md",
-    "Deutsch/Test/Die Verwandlung/Info.md",
-    "Deutsch/Test/Erdbeben von Chili/Info.md",
-    "Deutsch/Test/Test.md",
     "Deutsch/Test/Kleider machen Leute",
     "Excalidraw",
     "Deutsch/Gramatik",
@@ -217,11 +221,8 @@
     "x_Image/Personalaufwand Grafik.png",
     "x_Image/Pasted image 20250407105517.png",
     "x_Image/Pasted image 20240623200856.png",
-    "x_Image/Pasted image 20240623193428.png",
     "FRW - Recht/44 Lohnabrechnung",
     "Deutsch/Test/Corpus Delicti",
-    "Deutsch/Test/Die Verwandlung",
-    "Deutsch/Test/Andorra",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
