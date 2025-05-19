@@ -1,0 +1,1 @@
+Die verschiedenen Wortarten kennst Du jetzt. Verwendest Du sie in einen Satz, werden sie zu einem Teil dieses Satzes – einem **Satzglied**. Die verschiedenen Satzglieder kannst Du anhand ihrer **Funktion** und dem zugehörigen **Fragewort identifizieren**. Diese Auflistung gibt Dir einen Überblick über die verschiedenen Arten von Satzgliedern.

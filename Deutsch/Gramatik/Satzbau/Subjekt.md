@@ -1,0 +1,3 @@
+- **Funktion im Satz**: Satzgegenstand, Perso oder Sache, die etwas tut ("Täter")
+- **Fragewort**: Wer oder was?
+- **Beispiel**: _Das Haus steht an der Hauptstraße_

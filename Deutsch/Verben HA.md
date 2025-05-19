@@ -1,3 +1,6 @@
+s68 - REtorishce mittel
+
+
 
 Das Hilfsverb hilft andere Zeitformen zu bilden
 

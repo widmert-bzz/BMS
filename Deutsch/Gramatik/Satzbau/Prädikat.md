@@ -1,0 +1,3 @@
+- **Funktion im Satz**: Satzaussage
+- **Fragewort**: Was tut das Subjekt?
+- **Beispiel**: _Der Hund holt seinen Ball_
