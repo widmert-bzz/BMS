@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "147869ba5951e1ba",
+        "id": "166e5ef4174855b7",
         "type": "tabs",
         "children": [
           {
-            "id": "f5a5fbf3fd6a9c6a",
+            "id": "8c8512faeaf94a39",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Wirtschaft/24 Rechtsform/Excali Rechtsform.md"
+                "file": "Deutsch/Gramatik/Themen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Rechtsform"
+              "icon": "lucide-file",
+              "title": "Themen"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Konjuk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,38 +175,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5a5fbf3fd6a9c6a",
+  "active": "8c8512faeaf94a39",
   "lastOpenFiles": [
-    "Deutsch/Indirekte Rede.md",
-    "Deutsch/Passiv mit Modalverben.md",
+    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
+    "Deutsch/Gramatik/Themen.md",
+    "Deutsch/Gramatik/Wortarten/Verben.md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
     "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
+    "Deutsch/Gramatik/Satzbau/Hauptsatz - Nebensatz.md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip I.md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II",
+    "Deutsch/Indirekte Rede.md",
+    "Deutsch/Gramatik/Satzbau/Satzbau.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
+    "Deutsch/Gramatik/Satzbau/Prädikat.md",
+    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft",
+    "Excalidraw/Drawing 2025-04-08 17.52.00.excalidraw.md",
+    "Deutsch/Passiv mit Modalverben.md",
     "Deutsch/Gramatik/Glossar/Deklinieren.md",
     "Deutsch/Gramatik/Satzbau/Subjekt.md",
-    "Deutsch/Gramatik/Satzbau/Satzbau.md",
-    "Deutsch/Gramatik/Satzbau/Prädikat.md",
     "Deutsch/Gramatik/Satzbau/Objekt.md",
-    "Deutsch/Gramatik/Satzbau/Hauptsatz - Nebensatz.md",
-    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
     "Mathe/Geraden.md",
     "Mathe/Funktionen.md",
     "FRW - Recht/50 Abschluss Einzelunternehmung/Drawing 2025-05-06 10.37.56.excalidraw.md",
     "x_Image/Pasted Image 20250415113259_288.png",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
-    "Deutsch/Gramatik/Wortarten/Verben.md",
     "Deutsch/Gramatik/Besonderes",
     "Deutsch/Gramatik/Zeitarten",
     "Deutsch/Gramatik/Satzbau",
     "Deutsch/Gramatik/Wortarten/Präposition.md",
     "Deutsch/Gramatik/Wortarten/Pronomen.md",
-    "Deutsch/Gramatik/Themen.md",
     "Deutsch/Verben HA.md",
     "Deutsch/Textverständnis.md",
     "Deutsch/Die Adverbialien.md",
-    "Mathe/Was können.md",
-    "Mathe/Kapitel 15.md",
-    "Mathe/Test 11-13.md",
-    "Mathe/Boxplot.md",
-    "Wirtschaft/23 Steuerrecht/Steuerrecht.md",
     "FRW - Recht/50 Abschluss Einzelunternehmung",
     "Wirtschaft/24 Rechtsform",
     "x_Image/Pasted Image 20250415114255_972.png",
@@ -214,8 +218,6 @@
     "Deutsch/Gramatik/Wortarten",
     "Deutsch/Gramatik/Glossar",
     "Deutsch/Test/Kleider machen Leute",
-    "Excalidraw",
-    "Deutsch/Gramatik",
     "x_Image/Screenshot 2023-08-29 135400.png",
     "x_Image/Screenshot 2023-08-29 133702.png",
     "x_Image/Personalaufwand Grafik.png",

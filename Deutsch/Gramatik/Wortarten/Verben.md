@@ -29,3 +29,6 @@ Konjugieren
 | Imperatif    | Befehlsform                     | Singe ein Lieb mit uns!                                         |
 | Konjuktiv I  | Möglichkeitsform                | Meine Schwester sagt, sie singe gerne für uns.                  |
 | Konjuktiv II | Möglichkeitsform/Bedingungssatz | Wenn ich so gut wäre wie meine Schwester würde ich auch singen. |
+
+
+Stark und schwach: https://studyflix.de/deutsch/starke-und-schwache-verben-3634

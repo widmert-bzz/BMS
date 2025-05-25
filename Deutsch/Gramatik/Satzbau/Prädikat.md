@@ -1,3 +1,6 @@
+Ist das Tuwort
+
+
 - **Funktion im Satz**: Satzaussage
 - **Fragewort**: Was tut das Subjekt?
-- **Beispiel**: _Der Hund holt seinen Ball_
+- **Beispiel**: Der Hund _holt_ seinen Ball
