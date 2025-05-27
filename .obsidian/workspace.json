@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7ff5b5e388d1947",
+        "id": "263d185c7c81af61",
         "type": "tabs",
         "children": [
           {
-            "id": "fe36b249e60f88a4",
+            "id": "01f23ec1dc964848",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -171,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe36b249e60f88a4",
+  "active": "01f23ec1dc964848",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
