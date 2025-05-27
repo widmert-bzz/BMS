@@ -11,13 +11,28 @@
             "id": "01f23ec1dc964848",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excali Aktiengesellschaft"
+            }
+          },
+          {
+            "id": "4a7f665da51905cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Mathe/Excali Definitionsmenge.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Excali Definitionsmenge"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,10 +186,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01f23ec1dc964848",
+  "active": "dd14d1a34b6c591d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
+    "Mathe/Excali Definitionsmenge.md",
+    "Mathe/Definitio.md",
+    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
+    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
     "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
+    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
+    "conflict-files-obsidian-git.md",
     "Deutsch/Gramatik/Wortarten/Untitled.md",
     "Deutsch/Gramatik/Wortarten/Interjunktion.md",
     "Deutsch/Gramatik/Satzglieder/Objekt/Genitivobjekt.md",
@@ -187,21 +213,10 @@
     "Deutsch/Gramatik/Satzglieder/Objekt.md",
     "Deutsch/Gramatik/Satzglieder/Die Adverbialien.md",
     "Deutsch/Gramatik/Satzglieder",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Deutsch/Gramatik/Besonderes/Passiv mit Modalverben.md",
     "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
     "Mathe/Geraden.md",
-    "Mathe/Funktionen.md",
-    "Mathe/Boxplot.md",
-    "Deutsch/Gramatik/Themen.md",
-    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
-    "Deutsch/Gramatik/Wortarten/Verben.md",
-    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
-    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "Deutsch/Gramatik/Besonderes/Partizip I + II",
     "FRW - Recht/51 Abschluss Aktiengesellschaft",
     "x_Image/Pasted Image 20250415113259_288.png",

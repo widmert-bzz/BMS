@@ -1,14 +1,14 @@
 ## ✅ 1. Satzgefüge (Haupt- und Nebensätze)
 
-- [ ] Hauptsätze erkennen und bilden  
-- [ ] Nebensätze erkennen (Konjunktionen, Verbstellung am Ende)  
-- [ ] Arten von Nebensätzen unterscheiden:  
+- [x] Hauptsätze erkennen und bilden  
+- [x] Nebensätze erkennen (Konjunktionen, Verbstellung am Ende)  
+- [ ] Arten von Nebensätzen unterscheiden:  (Nicht so Wichtig)
   - [ ] Relativsatz  
   - [ ] Konjunktionalsatz  
   - [ ] Infinitivsatz  
   - [ ] Indirekter Fragesatz  
-- [ ] Haupt- und Nebensätze zu Satzgefügen kombinieren  
-- [ ] Verbstellung im Satzgefüge korrekt anwenden  
+- [ ] Haupt- und Nebensätze zu Satzgefügen kombinieren  (Nicht so Wichtig)
+- [ ] Verbstellung im Satzgefüge korrekt anwenden  (Nicht so Wichtig)
 
 ---
 

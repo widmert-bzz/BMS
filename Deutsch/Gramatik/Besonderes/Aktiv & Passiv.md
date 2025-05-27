@@ -1,8 +1,14 @@
+
+Aktiv / Passiv - AO -> Subjekt
+Passiv / Aktiv - Subjekt -> AO
+
 ### Aktiv:
 
-Das **Aktiv** beschreibt den „Täter“ in einem Satz – wir erinnern uns: Das **Subjekt**, das eine Handlung ausführt. 
+Linus ärgert die Lehrerin.
+Hilfsverb werden + [[Partizip II (Partizip Perfekt)]]
+Die Lehrerin wird (von Linus) geärgert
 
-_Ich füttere den Hund. – Hier ist das Subjekt „Ich“ aktiv und tut etwas._
+Kein Akkusativ-Objekt -> "Es"
 
 ### Passiv:
 
