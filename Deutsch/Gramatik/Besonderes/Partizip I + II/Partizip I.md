@@ -1,6 +1,5 @@
 Mittelwort zwischen Verb und Adjektiv
 
-- [[Deklinieren]]
 - Gleichzeitig
 - attributives Adjektiv
 - Adverb
