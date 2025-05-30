@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "263d185c7c81af61",
+        "id": "fce8d32f2df90022",
         "type": "tabs",
         "children": [
           {
-            "id": "01f23ec1dc964848",
+            "id": "b1d844522bf747e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excali Aktiengesellschaft"
-            }
-          },
-          {
-            "id": "4a7f665da51905cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Mathe/Excali Definitionsmenge.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excali Definitionsmenge"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -52,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -64,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Konjuk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,45 +171,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd14d1a34b6c591d",
+  "active": "fc14cb29651cc027",
   "lastOpenFiles": [
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "Mathe/Excali Definitionsmenge.md",
-    "Mathe/Definitio.md",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
-    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
-    "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
-    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
-    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
-    "conflict-files-obsidian-git.md",
-    "Deutsch/Gramatik/Wortarten/Untitled.md",
-    "Deutsch/Gramatik/Wortarten/Interjunktion.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Genitivobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Nominativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Dativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Akkusativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Subjekt.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
+    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
     "Deutsch/Gramatik/Satzglieder/Prädikat.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt",
+    "Deutsch/Gramatik/Satzglieder/Subjekt.md",
     "Deutsch/Gramatik/Satzglieder/Objekt.md",
     "Deutsch/Gramatik/Satzglieder/Die Adverbialien.md",
-    "Deutsch/Gramatik/Satzglieder",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen",
-    "Deutsch/Gramatik/Besonderes/Passiv mit Modalverben.md",
-    "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
-    "Mathe/Geraden.md",
-    "Deutsch/Gramatik/Besonderes/Partizip I + II",
+    "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
+    "Deutsch/Lektion/Charakterisierung.md",
+    "Satzglied.md",
+    "x_Image/Pasted image 20240623191319.png",
+    "Deutsch/Gramatik/Wortarten/Interjunktion.md",
+    "Deutsch/Gramatik/Wortarten/Adjektive.md",
+    "Deutsch/Gramatik/Wortarten/Untitled.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzbau.md",
+    "Deutsch/Gramatik/Satzglieder/Objekt/Nominativobjekt.md",
+    "Deutsch/Gramatik/Satzglieder/Objekt/Genitivobjekt.md",
+    "Deutsch/Gramatik/Satzglieder/Objekt/Dativobjekt.md",
+    "Deutsch/Gramatik/Satzglieder/Objekt/Akkusativobjekt.md",
+    "Deutsch/Gramatik/Satzglieder/Objekt",
+    "Deutsch/Gramatik/Satzbau/Untitled.md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip I.md",
+    "Deklinieren.md",
+    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "FRW - Recht/51 Abschluss Aktiengesellschaft",
-    "x_Image/Pasted Image 20250415113259_288.png",
+    "Deutsch/Gramatik/Besonderes/Partizip I + II",
+    "Deutsch/Gramatik/Satzglieder",
+    "Deutsch/Gramatik/Glossar",
     "Deutsch/Gramatik/Besonderes",
+    "Deutsch/Gramatik/Satzglieder",
+    "Deutsch/Gramatik/Formenlehre",
+    "x_Image/Pasted Image 20250415113259_288.png",
+    "Deutsch/Gramatik/Besonderheiten",
     "Deutsch/Gramatik/Zeitarten",
-    "Deutsch/Gramatik/Satzbau",
-    "FRW - Recht/50 Abschluss Einzelunternehmung",
-    "Wirtschaft/24 Rechtsform",
     "x_Image/Pasted Image 20250415114255_972.png",
     "x_Image/Pasted Image 20250415113620_485.png",
     "x_Image/Pasted Image 20250415112105_009.png",
@@ -233,7 +219,6 @@
     "x_Image/Screenshot 2023-08-29 133702.png",
     "x_Image/Personalaufwand Grafik.png",
     "x_Image/Pasted image 20250407105517.png",
-    "x_Image/Pasted image 20240623200856.png",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
