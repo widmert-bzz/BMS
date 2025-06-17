@@ -23,12 +23,14 @@
             "id": "4a7f665da51905cb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Mathe/Excali Definitionsmenge.md"
+                "file": "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Excali Definitionsmenge"
+              "icon": "lucide-file",
+              "title": "Indirekte Rede"
             }
           }
         ],
@@ -186,15 +188,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd14d1a34b6c591d",
+  "active": "4a7f665da51905cb",
   "lastOpenFiles": [
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
+    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "Mathe/Excali Definitionsmenge.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "Mathe/Definitio.md",
     "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
     "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
-    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
