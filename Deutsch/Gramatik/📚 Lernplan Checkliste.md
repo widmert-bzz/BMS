@@ -14,31 +14,30 @@
 
 ## ✅ 2. Kommaregeln
 
-- [ ] Komma zwischen Haupt- und Nebensatz setzen  
-- [ ] Kommas bei Aufzählungen richtig setzen  
+- [x] Komma zwischen Haupt- und Nebensatz setzen  
+- [x] Kommas bei Aufzählungen richtig setzen  
 - [ ] Kommas bei Infinitivgruppen richtig setzen  
-- [ ] Kommas bei eingeschobenen Nebensätzen setzen  
+- [x] Kommas bei eingeschobenen Nebensätzen setzen  
 - [ ] Kommas bei Relativsätzen anwenden  
 
 ---
 
 ## ✅ 3. Aktiv & Passiv
 
-- [ ] Unterschied zwischen Aktiv und Passiv verstehen  
-- [ ] Sätze vom Aktiv ins Passiv umwandeln  
+- [x] Unterschied zwischen Aktiv und Passiv verstehen  
+- [x] Sätze vom Aktiv ins Passiv umwandeln  
 - [ ] Passiv in verschiedenen Zeitformen bilden:  
   - [ ] Präsens  
   - [ ] Präteritum  
   - [ ] Perfekt  
   - [ ] Futur I  
-- [ ] Passiv richtig verwenden  
 - [ ] Passiv in Nebensätzen anwenden  
 
 ---
 
 ## ✅ 4. Indirekte Rede
 
-- [ ] Unterschied zwischen direkter und indirekter Rede erkennen  
+- [x] Unterschied zwischen direkter und indirekter Rede erkennen  
 - [ ] Konjunktiv I bilden und anwenden  
 - [ ] Konjunktiv II in der indirekten Rede verwenden  
 - [ ] Einleitung mit „dass“-Sätzen beherrschen  

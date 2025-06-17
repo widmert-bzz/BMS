@@ -1,6 +1,6 @@
 
 Aktiv / Passiv - AO -> Subjekt
-Passiv / Aktiv - Subjekt -> AO
+Passiv / Aktiv - DO -> Subjekt
 
 ### Aktiv:
 

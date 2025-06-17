@@ -1,8 +1,4 @@
 ##### 211-212
-ich -> Konjuktiv I
-du -> Konjuktiv II
-usw..
-
 #### Konjuktiv I:
 
 Stamm des Infinitivs + Konjuktivendungen
