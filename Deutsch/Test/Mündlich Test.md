@@ -1,6 +1,11 @@
 # Erdbeben von Chili
 Heinrich von Kleist
 
+### Sprachliche Merkmale
+Alliteration betont Geste des Chorherrn „Hände hoch gen Himmel erhebend“
+Leidensmetaphorik
+Anfangs Musik, Farbig
+Abendsonne bald kommt das böse
 ### Charakterisierung
 Jeronimo (Hauslehrer)
 Donna Josephe (Adlig)
@@ -22,26 +27,45 @@ Jeronimos Vater
 	Jeronimo
 
 ### Interpretation:
-
+Anfangs Heilig
 Dominikanerkirche nach dem Erdbeben
 Dreh und Angelpunkt 
 Kirche steht für Frieden steht
 Zum Schlachtfeld
+starker wandel
 
 
+
+***
 # Gottfried Keller
 Kleider machen Leute
 
 ### Epoche/Hintergrund
-
-
+1874 
+Hinterfragt hirartchische stellung
+Realismus
+wirklichkeitsnah
+Realitätsnahe
+mit humoristischen charakterzügen ernstahften charakter kleinhalten
+Humoristische MErkmal ist dei Verwechslung
+trennung zwischen ständen klar
+##### Historischer Kontext
+Kleidung gesellschaftlicher Wert wie heute auch noch
+Äußeres und Repräsentation oft wichtiger als der tatsächliche Charakter
+##### Aktualitätsbezug
+Markenkleidung
+sozialen Medien
+schöneres leben weil gute bilder
+Oberflächliche Urteile
+Selbstinszenierung
+***
 # Juli Zeh 
 Corpus Delicti
 ### Aktualitätsbezug
 Freiheit vs. Sicherheit
 Kontrolle durch Daten
 Datenmissbrauch
-
+MEinungsfreiheit
 Mia Holl - Impfgegner/Bargeldliebhaber
 
 Freiheit ist ein hohes Gut
@@ -61,14 +85,19 @@ Privatsphäre
 Gesundheitsdiktatur
 alternativlos
 
+***
 # Franz Kafka
 Die Verwandlung
+### Motive
+Körperliche und seelische Veränderung Gregors → Symbol für Entfremdung.
+Anfangs hat gregor samsa den schlüssel und entscheidet später der Vater
 
-### Motive/Symbole
+### Symbole
+Tür - Grenze zwischen Gregor und Familie / Gesellschaft
+Fenster - Verbindung zur ausenwelt
+Käfer - Symbol für Fremdheit und Wertlosigkeit
 
-
-
-
+***
 # Max Frisch
 Andorra
 ### Andri – Zentralfigur
