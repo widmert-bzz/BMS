@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "263d185c7c81af61",
+        "id": "c345874f852bd110",
         "type": "tabs",
         "children": [
           {
-            "id": "01f23ec1dc964848",
+            "id": "c70375f9cf86e045",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md"
+                "file": "FRW - Recht/Erfolgsrechnung.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali Aktiengesellschaft"
+              "title": "Erfolgsrechnung"
             }
           },
           {
-            "id": "4a7f665da51905cb",
+            "id": "2436d2d7c5627ad2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
-                "mode": "source",
-                "source": false
+                "file": "FRW - Recht/Erfolgsrechnung.md"
               },
-              "icon": "lucide-file",
-              "title": "Indirekte Rede"
+              "icon": "excalidraw-icon",
+              "title": "Erfolgsrechnung"
             }
           }
         ],
@@ -165,8 +163,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -174,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,17 +187,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a7f665da51905cb",
+  "active": "2436d2d7c5627ad2",
   "lastOpenFiles": [
-    "WhatsApp Image 2025-06-11 at 21.35.39_6637adcc.jpg",
-    "Pasted image 20250611213502.png",
+    "FRW - Recht/52 Bewertungsvorschriften.md",
+    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "Geschichte/marxismus.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "x_Image/Pasted Image 20250819104310_292.png",
+    "x_Image/Pasted Image 20250819105524_747.png",
+    "x_Image/Pasted Image 20250819105502_097.png",
+    "x_Image/Pasted Image 20250819105454_762.png",
+    "x_Image/Pasted Image 20250819105207_070.png",
+    "x_Image/Pasted Image 20250819105119_370.png",
+    "x_Image/Pasted Image 20250819104844_672.png",
+    "x_Image/Pasted Image 20250819104656_596.png",
+    "Geschichte/Schweizer Industrie.md",
+    "x_Image/Pasted Image 20250819104116_685.png",
+    "x_Image/Pasted Image 20250819103810_474.png",
+    "Geschichte/Industrielle Revolution.md",
+    "English/English.md",
+    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
+    "English",
+    "Wirtschaft/Finanzierung",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
+    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
+    "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
     "Deutsch/Test/Mündlich Test.md",
     "Deutsch/Test/Erdbeben von Chili/Textstelle.md",
     "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "Mathe/Excali Definitionsmenge.md",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "Mathe/Definitio.md",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
     "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
     "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
@@ -207,35 +227,14 @@
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
     "conflict-files-obsidian-git.md",
-    "Deutsch/Gramatik/Wortarten/Untitled.md",
-    "Deutsch/Gramatik/Wortarten/Interjunktion.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Genitivobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Nominativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Dativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt/Akkusativobjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Subjekt.md",
-    "Deutsch/Gramatik/Satzglieder/Prädikat.md",
     "Deutsch/Gramatik/Satzglieder/Objekt",
-    "Deutsch/Gramatik/Satzglieder/Objekt.md",
-    "Deutsch/Gramatik/Satzglieder/Die Adverbialien.md",
     "Deutsch/Gramatik/Satzglieder",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Deutsch/Gramatik/Besonderes/Partizip I + II",
     "FRW - Recht/51 Abschluss Aktiengesellschaft",
-    "x_Image/Pasted Image 20250415113259_288.png",
     "Deutsch/Gramatik/Besonderes",
     "Deutsch/Gramatik/Zeitarten",
     "Deutsch/Gramatik/Satzbau",
-    "FRW - Recht/50 Abschluss Einzelunternehmung",
-    "Wirtschaft/24 Rechtsform",
-    "x_Image/Pasted Image 20250415114255_972.png",
-    "x_Image/Pasted Image 20250415113620_485.png",
-    "x_Image/Pasted Image 20250415112105_009.png",
-    "x_Image/Pasted Image 20250415111612_474.png",
-    "x_Image/Screenshot 2023-08-29 135400.png",
-    "x_Image/Screenshot 2023-08-29 133702.png",
-    "x_Image/Personalaufwand Grafik.png",
-    "x_Image/Pasted image 20250407105517.png",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
