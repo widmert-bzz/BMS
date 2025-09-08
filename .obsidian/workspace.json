@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c345874f852bd110",
+        "id": "4a36e984033551ac",
         "type": "tabs",
         "children": [
           {
-            "id": "c70375f9cf86e045",
+            "id": "ef0be2511f82aa08",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/Erfolgsrechnung.md"
+                "file": "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Erfolgsrechnung"
-            }
-          },
-          {
-            "id": "2436d2d7c5627ad2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FRW - Recht/Erfolgsrechnung.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Erfolgsrechnung"
+              "title": "Excali Wirtschaftskreislauf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,6 +164,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,15 +175,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2436d2d7c5627ad2",
+  "active": "ef0be2511f82aa08",
   "lastOpenFiles": [
+    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
+    "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
+    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
+    "FRW - Recht/52 Bewertungsvorschriften.md",
+    "Geschichte/Marxismus.md",
+    "Wirtschaft/Wirtschaftskreislauf",
+    "Technik & Umwelt/Untitled.md",
+    "Technik & Umwelt",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "Pasted Image 20250630210126_783.png",
     "Pasted Image 20250630202442_708.png",
-    "FRW - Recht/52 Bewertungsvorschriften.md",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
-    "FRW - Recht/Erfolgsrechnung.md",
-    "Geschichte/marxismus.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
     "x_Image/Pasted Image 20250819104310_292.png",
     "x_Image/Pasted Image 20250819105524_747.png",
     "x_Image/Pasted Image 20250819105502_097.png",
@@ -205,15 +200,12 @@
     "x_Image/Pasted Image 20250819104844_672.png",
     "x_Image/Pasted Image 20250819104656_596.png",
     "Geschichte/Schweizer Industrie.md",
-    "x_Image/Pasted Image 20250819104116_685.png",
     "Geschichte/Industrielle Revolution.md",
     "English/English.md",
-    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
     "English",
     "Wirtschaft/Finanzierung",
     "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
     "Deutsch/Test/Mündlich Test.md",
     "Deutsch/Test/Erdbeben von Chili/Textstelle.md",
@@ -225,16 +217,12 @@
     "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
     "Deutsch/Gramatik/Satzglieder/Objekt",
     "Deutsch/Gramatik/Satzglieder",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Deutsch/Gramatik/Besonderes/Partizip I + II",
     "FRW - Recht/51 Abschluss Aktiengesellschaft",
     "Deutsch/Gramatik/Besonderes",
-    "Deutsch/Gramatik/Zeitarten",
-    "Deutsch/Gramatik/Satzbau",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
