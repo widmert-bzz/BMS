@@ -7,7 +7,7 @@ Warmes magma erhebtsich, Kaltes Magma sinkt ab und dadurch entstehen Konvektions
 
 
 - Die wichtigsten Plattenränder und deren Prozesse kennen 
-Anden, Island
+Anden, Island, Himalaya
 
 
 Ozenische Palatte ist Schwerer als Kontinentale Platte
@@ -34,10 +34,8 @@ Stickstoff
 
 
 - Photosynthese/Zellatmung darstellen
-    
 
 - Die wichtigsten Kohlenstoff-Stoffflüsse (Fluxes) resp. Speicher (Pools) in eigenen Worten wiedergeben (keine Zahlen!) 
-    
 
 - Bedeutung und Problematik von organischen Böden aufzeigen 
 Wenn Moor-Böden entwässert werden wird Stickstoff und Kohlenstoff freigesetz.
