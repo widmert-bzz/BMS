@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lernziele Plattentektonik, C-Kreislauf, Meere"
             }
+          },
+          {
+            "id": "981bbb1aeaa33dd2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/Marxismus.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Marxismus"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,10 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef0be2511f82aa08",
+  "active": "981bbb1aeaa33dd2",
   "lastOpenFiles": [
-    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
+    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
     "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
+    "Wirtschaft/Marktwirtschaft",
+    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
     "Geschichte/Marxismus.md",
     "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
     "Wirtschaft/Finanzierung/Excali Finanzierung.md",
@@ -218,13 +233,11 @@
     "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
     "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
     "Deutsch/Gramatik/Satzglieder/Objekt",
     "Deutsch/Gramatik/Satzglieder",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Deutsch/Gramatik/Besonderes/Partizip I + II",
     "FRW - Recht/51 Abschluss Aktiengesellschaft",
-    "Deutsch/Gramatik/Besonderes",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
