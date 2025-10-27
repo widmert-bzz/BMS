@@ -4,35 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "4a36e984033551ac",
+        "id": "60e4189043b92358",
         "type": "tabs",
         "children": [
           {
-            "id": "ef0be2511f82aa08",
+            "id": "94acdc6610385aac",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/52 Bewertungsvorschriften.md"
+                "file": "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md"
               },
               "icon": "excalidraw-icon",
-              "title": "52 Bewertungsvorschriften"
+              "title": "Excali Marktwirtschaft"
             }
           },
           {
-            "id": "2ee0d0aa7acd3fec",
+            "id": "ebb484b2a3dff9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "fac996a3d6b3b532",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/60 Break-Even-Analyse.md"
+                "file": "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md"
               },
               "icon": "excalidraw-icon",
-              "title": "60 Break-Even-Analyse"
+              "title": "Excali Marktwirtschaft"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "ffb2bc2e92e8cba6",
@@ -189,22 +202,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ee0d0aa7acd3fec",
+  "active": "fac996a3d6b3b532",
   "lastOpenFiles": [
+    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
+    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
+    "FRW - Recht/Geldfluss/Untitled.md",
+    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
+    "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
     "FRW - Recht/60 Break-Even-Analyse.md",
     "FRW - Recht/52 Bewertungsvorschriften.md",
-    "FRW - Recht/Erfolgsrechnung.md",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
-    "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
-    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
-    "Wirtschaft/Marktwirtschaft",
-    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
-    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
-    "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
+    "FRW - Recht/Geldfluss/Excali Geldfluss.md",
+    "Geschichte/Stalin.md",
+    "FRW - Recht/Geldfluss",
+    "Geschichte/Untitled.md",
     "Geschichte/Marxismus.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
+    "Wirtschaft/Marktwirtschaft",
     "Wirtschaft/Wirtschaftskreislauf",
     "Technik & Umwelt",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "FRW - Recht/Erfolgsrechnung.md",
     "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "Pasted Image 20250630210126_783.png",
     "Pasted Image 20250630202442_708.png",
@@ -222,21 +239,17 @@
     "English/English.md",
     "English",
     "Wirtschaft/Finanzierung",
+    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
     "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
     "Deutsch/Test/Mündlich Test.md",
     "Deutsch/Test/Erdbeben von Chili/Textstelle.md",
     "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
     "Mathe/Excali Definitionsmenge.md",
-    "Mathe/Definitio.md",
-    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
-    "Deutsch/Gramatik/📚 Lernplan Checkliste.md",
-    "Deutsch/Gramatik/Besonderes/Partizip I + II/Partizip II (Partizip Perfekt).md",
     "Deutsch/Gramatik/Satzglieder/Objekt",
     "Deutsch/Gramatik/Satzglieder",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Deutsch/Gramatik/Besonderes/Partizip I + II",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
