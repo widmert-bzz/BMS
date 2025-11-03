@@ -37,16 +37,30 @@
             "id": "fac996a3d6b3b532",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wirtschaft/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c56fe4d729f60a84",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md"
+                "file": "Wirtschaft/Drawing 2025-11-03 07.51.52.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali Marktwirtschaft"
+              "title": "Drawing 2025-11-03 07.51.52.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,10 +216,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fac996a3d6b3b532",
+  "active": "c56fe4d729f60a84",
   "lastOpenFiles": [
-    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
+    "Pasted Image 20251103082219_970.png",
+    "Pasted Image 20251103081927_813.png",
+    "Pasted Image 20251103081817_737.png",
+    "Pasted Image 20251103081337_253.png",
+    "Pasted Image 20251103081300_097.png",
+    "Pasted Image 20251103081234_956.png",
+    "Pasted Image 20251103081222_773.png",
+    "Pasted Image 20251103080525_118.png",
+    "Wirtschaft/Untitled.md",
+    "Wirtschaft/Drawing 2025-11-03 07.51.52.excalidraw.md",
     "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
+    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
     "FRW - Recht/Geldfluss/Untitled.md",
     "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
     "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
@@ -227,13 +251,6 @@
     "Pasted Image 20250630202442_708.png",
     "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
     "x_Image/Pasted Image 20250819104310_292.png",
-    "x_Image/Pasted Image 20250819105524_747.png",
-    "x_Image/Pasted Image 20250819105502_097.png",
-    "x_Image/Pasted Image 20250819105454_762.png",
-    "x_Image/Pasted Image 20250819105207_070.png",
-    "x_Image/Pasted Image 20250819105119_370.png",
-    "x_Image/Pasted Image 20250819104844_672.png",
-    "x_Image/Pasted Image 20250819104656_596.png",
     "Geschichte/Schweizer Industrie.md",
     "Geschichte/Industrielle Revolution.md",
     "English/English.md",
@@ -243,9 +260,6 @@
     "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
     "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
     "Deutsch/Test/Mündlich Test.md",
-    "Deutsch/Test/Erdbeben von Chili/Textstelle.md",
-    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
-    "Mathe/Excali Definitionsmenge.md",
     "Deutsch/Gramatik/Satzglieder/Objekt",
     "Deutsch/Gramatik/Satzglieder",
     "Deutsch/Gramatik/Satzarten und Satzstrukturen",
