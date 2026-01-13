@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "60e4189043b92358",
+        "id": "bd4691485a245007",
         "type": "tabs",
         "children": [
           {
-            "id": "94acdc6610385aac",
+            "id": "93151e960f3c8804",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md"
+                "file": "FRW - Recht/Geldfluss/Excali Geldfluss.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali Marktwirtschaft"
+              "title": "Excali Geldfluss"
+            }
+          },
+          {
+            "id": "705feb4735aeb3e1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-16 13.11.20.excalidraw"
+            }
+          },
+          {
+            "id": "0a2e03bcf5bf1ccd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Wirtschaft/Wachstum und Strukturwechsel.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Wachstum und Strukturwechsel"
+            }
+          },
+          {
+            "id": "7b321ac45fb4dd97",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Geschichte/1945 Teilung Deutschland.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1945 Teilung Deutschland"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -51,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Konjuk",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,53 +212,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94acdc6610385aac",
+  "active": "7b321ac45fb4dd97",
   "lastOpenFiles": [
+    "Geschichte/Schweizer Industrie.md",
+    "Geschichte/Marxismus.md",
+    "Geschichte/Industrielle Revolution.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Geschichte/1945 Teilung Deutschland.md",
+    "Geschichte/Stalin.md",
+    "Geschichte/Untitled.md",
+    "Wirtschaft/Wachstum und Strukturwechsel.md",
+    "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md",
+    "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
+    "FRW - Recht/Geldfluss/Excali Geldfluss.md",
+    "FRW - Recht/Erfolgsrechnung.md",
+    "Wirtschaft/Globalisierung/Excali Globalisierung.md",
+    "Wirtschaft/Globalisierung/GLo.md",
+    "Wirtschaft/Globalisierung",
+    "FRW - Recht/BEBU",
+    "Pasted Image 20251103081927_813.png",
+    "Pasted Image 20251103081234_956.png",
+    "Pasted Image 20251103080525_118.png",
+    "Pasted Image 20250630210126_783.png",
+    "Pasted Image 20250630202442_708.png",
+    "FRW - Recht/Analyse Jahresabschluss/Drawing 2025-12-02 09.38.32.excalidraw.md",
+    "FRW - Recht/Analyse Jahresabschluss",
+    "FRW - Recht/Geldfluss/Untitled.md",
+    "FRW - Recht/60 Break-Even-Analyse.md",
+    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
     "Wirtschaft/Konjunkturzyklus/Excali Konjunkturzyklus.md",
     "Wirtschaft/Untitled 1.md",
     "Wirtschaft/Konjunkturzyklus",
     "Wirtschaft/Untitled.md",
     "Wirtschaft/Formvorschriften.md",
     "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
-    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
     "Wirtschaft/Finanzierung/Excali Finanzierung.md",
-    "FRW - Recht/Erfolgsrechnung.md",
-    "FRW - Recht/Geldfluss/Excali Geldfluss.md",
-    "Geschichte/Untitled.md",
     "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
     "Pasted Image 20251103082219_970.png",
-    "Pasted Image 20251103081927_813.png",
     "Pasted Image 20251103081817_737.png",
     "Pasted Image 20251103081337_253.png",
     "Pasted Image 20251103081300_097.png",
-    "Pasted Image 20251103081234_956.png",
     "Pasted Image 20251103081222_773.png",
-    "Pasted Image 20251103080525_118.png",
-    "FRW - Recht/Geldfluss/Untitled.md",
     "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
-    "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
-    "FRW - Recht/60 Break-Even-Analyse.md",
-    "FRW - Recht/52 Bewertungsvorschriften.md",
-    "Geschichte/Stalin.md",
     "FRW - Recht/Geldfluss",
-    "Geschichte/Marxismus.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
     "Wirtschaft/Marktwirtschaft",
     "Wirtschaft/Wirtschaftskreislauf",
     "Technik & Umwelt",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
-    "Pasted Image 20250630210126_783.png",
-    "Pasted Image 20250630202442_708.png",
-    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
-    "Geschichte/Schweizer Industrie.md",
-    "Geschichte/Industrielle Revolution.md",
-    "English/English.md",
     "English",
     "Wirtschaft/Finanzierung",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt",
-    "Deutsch/Gramatik/Satzglieder",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
