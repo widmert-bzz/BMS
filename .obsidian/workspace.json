@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d64589bbcc3216f8",
+        "id": "d1eb6d8fd58f4372",
         "type": "tabs",
         "children": [
           {
-            "id": "9086ad586b2ba371",
+            "id": "04624564365b8dbe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Wirtschaft/Globalisierung/Excali Globalisierung.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Excali Globalisierung"
-            }
-          },
-          {
-            "id": "cc73726aba6ea7e0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Wirtschaft/Wirtschafts sozial, Umweltpolitik.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Wirtschafts sozial, Umweltpolitik"
-            }
-          },
-          {
-            "id": "fc7bfeb43df75b9b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Wirtschaft/Zusammenfassung Globalisierung.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Zusammenfassung Globalisierung"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc73726aba6ea7e0",
+  "active": "04624564365b8dbe",
   "lastOpenFiles": [
     "Wirtschaft/Zusammenfassung Globalisierung.md",
-    "Wirtschaft/Wirtschafts sozial, Umweltpolitik.md",
     "Wirtschaft/Globalisierung/Excali Globalisierung.md",
+    "Wirtschaft/Formvorschriften.md",
+    "Wirtschaft/Wirtschafts sozial, Umweltpolitik.md",
     "Wirtschaft/Wachstum und Strukturwechsel.md",
     "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
     "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
@@ -236,7 +210,6 @@
     "FRW - Recht/Geldfluss/Untitled.md",
     "FRW - Recht/60 Break-Even-Analyse.md",
     "Wirtschaft/Konjunkturzyklus/Excali Konjunkturzyklus.md",
-    "Wirtschaft/Untitled 1.md",
     "Wirtschaft/Konjunkturzyklus",
     "x_Image/Pasted Image 20251103082219_970.png",
     "x_Image/Pasted Image 20251103081817_737.png",
