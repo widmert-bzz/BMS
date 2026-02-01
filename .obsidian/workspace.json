@@ -4,59 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bd4691485a245007",
+        "id": "d64589bbcc3216f8",
         "type": "tabs",
         "children": [
           {
-            "id": "93151e960f3c8804",
+            "id": "9086ad586b2ba371",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/Geldfluss/Excali Geldfluss.md"
+                "file": "Wirtschaft/Globalisierung/Excali Globalisierung.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali Geldfluss"
+              "title": "Excali Globalisierung"
             }
           },
           {
-            "id": "705feb4735aeb3e1",
+            "id": "cc73726aba6ea7e0",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md"
+                "file": "Wirtschaft/Wirtschafts sozial, Umweltpolitik.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-16 13.11.20.excalidraw"
+              "title": "Wirtschafts sozial, Umweltpolitik"
             }
           },
           {
-            "id": "0a2e03bcf5bf1ccd",
+            "id": "fc7bfeb43df75b9b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/Wachstum und Strukturwechsel.md"
+                "file": "Wirtschaft/Zusammenfassung Globalisierung.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Wachstum und Strukturwechsel"
-            }
-          },
-          {
-            "id": "7b321ac45fb4dd97",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-16 13.11.20.excalidraw"
+              "title": "Zusammenfassung Globalisierung"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,54 +200,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b321ac45fb4dd97",
+  "active": "cc73726aba6ea7e0",
   "lastOpenFiles": [
+    "Wirtschaft/Zusammenfassung Globalisierung.md",
+    "Wirtschaft/Wirtschafts sozial, Umweltpolitik.md",
+    "Wirtschaft/Globalisierung/Excali Globalisierung.md",
+    "Wirtschaft/Wachstum und Strukturwechsel.md",
+    "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
+    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
+    "Technik & Umwelt/Blutgruppen.md",
     "Geschichte/1945 Teilung Deutschland.md",
+    "Informatik/M241/LU03.md",
+    "Informatik/M241",
+    "Wirtschaft/Zusammenfassung.md",
+    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Geschichte/Untitled.md",
+    "x_Image/Pasted Image 20250630202442_708.png",
+    "FRW - Recht/Geldfluss/Excali Geldfluss.md",
+    "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md",
     "Geschichte/Schweizer Industrie.md",
     "Geschichte/Marxismus.md",
     "Geschichte/Industrielle Revolution.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
     "Geschichte/Stalin.md",
-    "Geschichte/Untitled.md",
-    "Wirtschaft/Wachstum und Strukturwechsel.md",
-    "FRW - Recht/BEBU/Drawing 2025-12-16 13.11.20.excalidraw.md",
     "FRW - Recht/45 Wertschriften/Excali Wertschriften.md",
-    "FRW - Recht/Geldfluss/Excali Geldfluss.md",
     "FRW - Recht/Erfolgsrechnung.md",
-    "Wirtschaft/Globalisierung/Excali Globalisierung.md",
     "Wirtschaft/Globalisierung/GLo.md",
     "Wirtschaft/Globalisierung",
     "FRW - Recht/BEBU",
-    "Pasted Image 20251103081927_813.png",
-    "Pasted Image 20251103081234_956.png",
-    "Pasted Image 20251103080525_118.png",
-    "Pasted Image 20250630210126_783.png",
-    "Pasted Image 20250630202442_708.png",
+    "x_Image/Pasted Image 20251103081927_813.png",
+    "x_Image/Pasted Image 20251103081234_956.png",
+    "x_Image/Pasted Image 20251103080525_118.png",
+    "x_Image/Pasted Image 20250630210126_783.png",
     "FRW - Recht/Analyse Jahresabschluss/Drawing 2025-12-02 09.38.32.excalidraw.md",
     "FRW - Recht/Analyse Jahresabschluss",
     "FRW - Recht/Geldfluss/Untitled.md",
     "FRW - Recht/60 Break-Even-Analyse.md",
-    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
     "Wirtschaft/Konjunkturzyklus/Excali Konjunkturzyklus.md",
     "Wirtschaft/Untitled 1.md",
     "Wirtschaft/Konjunkturzyklus",
-    "Wirtschaft/Untitled.md",
-    "Wirtschaft/Formvorschriften.md",
-    "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
-    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
-    "Pasted Image 20251103082219_970.png",
-    "Pasted Image 20251103081817_737.png",
-    "Pasted Image 20251103081337_253.png",
-    "Pasted Image 20251103081300_097.png",
-    "Pasted Image 20251103081222_773.png",
-    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
+    "x_Image/Pasted Image 20251103082219_970.png",
+    "x_Image/Pasted Image 20251103081817_737.png",
+    "x_Image/Pasted Image 20251103081337_253.png",
+    "x_Image/Pasted Image 20251103081300_097.png",
+    "x_Image/Pasted Image 20251103081222_773.png",
     "FRW - Recht/Geldfluss",
     "Wirtschaft/Marktwirtschaft",
     "Wirtschaft/Wirtschaftskreislauf",
     "Technik & Umwelt",
     "English",
-    "Wirtschaft/Finanzierung",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
