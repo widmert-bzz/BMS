@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "60e4189043b92358",
+        "id": "ba9349edbaca0cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "94acdc6610385aac",
+            "id": "82cd64f050fd10a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technik & Umwelt/Zusammenfassung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zusammenfassung"
+            }
+          },
+          {
+            "id": "035929ea1951c5f8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md"
+                "file": "Siedler/Drawing 2026-03-13 21.54.09.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Excali Marktwirtschaft"
+              "title": "Drawing 2026-03-13 21.54.09.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,20 +190,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94acdc6610385aac",
+  "active": "035929ea1951c5f8",
   "lastOpenFiles": [
-    "Wirtschaft/Konjunkturzyklus/Excali Konjunkturzyklus.md",
-    "Wirtschaft/Untitled 1.md",
-    "Wirtschaft/Konjunkturzyklus",
-    "Wirtschaft/Untitled.md",
-    "Wirtschaft/Formvorschriften.md",
+    "Technik & Umwelt/Zusammenfassung.md",
+    "Siedler/Drawing 2026-03-13 21.54.09.excalidraw.md",
+    "Siedler",
+    "Summerferie/2026/2026.md",
+    "Summerferie/2026",
+    "Summerferie",
     "Wirtschaft/Wirtschaftskreislauf/Excali Wirtschaftskreislauf.md",
-    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
-    "Wirtschaft/Finanzierung/Excali Finanzierung.md",
+    "FRW - Recht/BEBU-FIBU/Drawing 2026-02-02 18.35.40.excalidraw.md",
     "FRW - Recht/Erfolgsrechnung.md",
+    "FRW - Recht/BEBU-FIBU",
     "FRW - Recht/Geldfluss/Excali Geldfluss.md",
-    "Geschichte/Untitled.md",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Excali Aktiengesellschaft.md",
+    "FRW - Recht/Geldfluss/Untitled.md",
+    "FRW - Recht/42 & 43 Rechnungsabgrenzung & Rückstellungen/Rechnungsabgrenzung & Rückstellungen.md",
+    "Wirtschaft/Marktwirtschaft/Excali Marktwirtschaft.md",
+    "Wirtschaft/Konjunkturzyklus/Excali Konjunkturzyklus.md",
+    "Wirtschaft/Konjunkturzyklus",
     "Pasted Image 20251103082219_970.png",
     "Pasted Image 20251103081927_813.png",
     "Pasted Image 20251103081817_737.png",
@@ -197,31 +216,28 @@
     "Pasted Image 20251103081234_956.png",
     "Pasted Image 20251103081222_773.png",
     "Pasted Image 20251103080525_118.png",
-    "FRW - Recht/Geldfluss/Untitled.md",
-    "Technik & Umwelt/Drawing 2025-08-26 14.44.48.excalidraw.md",
-    "Technik & Umwelt/Lernziele Plattentektonik, C-Kreislauf, Meere.md",
-    "FRW - Recht/60 Break-Even-Analyse.md",
-    "FRW - Recht/52 Bewertungsvorschriften.md",
+    "Geschichte/Untitled.md",
     "Geschichte/Stalin.md",
     "FRW - Recht/Geldfluss",
-    "Geschichte/Marxismus.md",
-    "Geschichte/Drawing 2024-12-02 20.50.37.excalidraw.md",
+    "Deutsch/Gramatik/Wortarten/Untitled.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Hauptsatz.md",
+    "Deutsch/Gramatik/Besonderes/Passiv mit Modalverben.md",
+    "Deutsch/Gramatik/Besonderes/Indirekte Rede.md",
+    "Deutsch/Gramatik/Besonderes/Aktiv & Passiv.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Nebensatz.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzreihe.md",
+    "Deutsch/Gramatik/Satzarten und Satzstrukturen/Satzgefüge.md",
+    "Deutsch/Gramatik/Satzglieder/Die Adverbialien.md",
+    "Deutsch/Gramatik/Wortarten/Konjunktion.md",
+    "Deutsch/Gramatik/Wortarten/Verben.md",
+    "Deutsch/Gramatik/Wortarten/Pronomen.md",
+    "Deutsch/Gramatik/Wortarten/Präposition.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Wirtschaft/Marktwirtschaft",
     "Wirtschaft/Wirtschaftskreislauf",
-    "Technik & Umwelt",
-    "Wirtschaft/24 Rechtsform/Excali Rechtsform.md",
     "Pasted Image 20250630210126_783.png",
     "Pasted Image 20250630202442_708.png",
-    "FRW - Recht/40 Abschriebungen/Abschreibungen.md",
-    "Geschichte/Schweizer Industrie.md",
-    "Geschichte/Industrielle Revolution.md",
-    "English/English.md",
-    "English",
-    "Wirtschaft/Finanzierung",
-    "FRW - Recht/51 Abschluss Aktiengesellschaft/Untitled.md",
-    "Deutsch/Gramatik/Satzglieder/Objekt",
-    "Deutsch/Gramatik/Satzglieder",
-    "Deutsch/Gramatik/Satzarten und Satzstrukturen",
     "Informatik/M183/Lektion/Untitled.canvas",
     "Untitled.canvas"
   ]
