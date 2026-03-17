@@ -22,7 +22,6 @@
 | **Ganz Rechts** | SVP |
 
 ---
-
 ## 3. Wahlanalyse & Trends
 
 ### Warum der starke Linksrutsch in Zürich?
@@ -34,6 +33,8 @@
 * **Stärker:** SP (Zürich & Winterthur), AL & SVP (Winterthur).
 * **Schwächer:** FDP (Zürich: historischer Verlust), Grüne & GLP (leichte Verluste im Parlament).
 * **Koalitionen:** In Zürich ist die links-grüne Mehrheit nun so dominant, dass sie kaum noch Kompromisse mit der Mitte eingehen muss.
+
+
 
 ---
 
